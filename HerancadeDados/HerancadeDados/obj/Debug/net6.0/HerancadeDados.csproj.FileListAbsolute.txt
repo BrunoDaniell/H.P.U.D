@@ -1,0 +1,15 @@
+C:\Users\bruno\Desktop\PROJETOS\HerancadeDados\HerancadeDados\bin\Debug\net6.0\HerancadeDados.exe
+C:\Users\bruno\Desktop\PROJETOS\HerancadeDados\HerancadeDados\bin\Debug\net6.0\HerancadeDados.deps.json
+C:\Users\bruno\Desktop\PROJETOS\HerancadeDados\HerancadeDados\bin\Debug\net6.0\HerancadeDados.runtimeconfig.json
+C:\Users\bruno\Desktop\PROJETOS\HerancadeDados\HerancadeDados\bin\Debug\net6.0\HerancadeDados.dll
+C:\Users\bruno\Desktop\PROJETOS\HerancadeDados\HerancadeDados\bin\Debug\net6.0\HerancadeDados.pdb
+C:\Users\bruno\Desktop\PROJETOS\HerancadeDados\HerancadeDados\obj\Debug\net6.0\HerancadeDados.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\PROJETOS\HerancadeDados\HerancadeDados\obj\Debug\net6.0\HerancadeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\PROJETOS\HerancadeDados\HerancadeDados\obj\Debug\net6.0\HerancadeDados.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\PROJETOS\HerancadeDados\HerancadeDados\obj\Debug\net6.0\HerancadeDados.AssemblyInfo.cs
+C:\Users\bruno\Desktop\PROJETOS\HerancadeDados\HerancadeDados\obj\Debug\net6.0\HerancadeDados.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\PROJETOS\HerancadeDados\HerancadeDados\obj\Debug\net6.0\HerancadeDados.dll
+C:\Users\bruno\Desktop\PROJETOS\HerancadeDados\HerancadeDados\obj\Debug\net6.0\refint\HerancadeDados.dll
+C:\Users\bruno\Desktop\PROJETOS\HerancadeDados\HerancadeDados\obj\Debug\net6.0\HerancadeDados.pdb
+C:\Users\bruno\Desktop\PROJETOS\HerancadeDados\HerancadeDados\obj\Debug\net6.0\HerancadeDados.genruntimeconfig.cache
+C:\Users\bruno\Desktop\PROJETOS\HerancadeDados\HerancadeDados\obj\Debug\net6.0\ref\HerancadeDados.dll
